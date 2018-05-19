@@ -41,7 +41,7 @@ export default {
     },
     appendToBody: {
       type: Boolean,
-      default: true
+      default: false
     },
     popperOptions: {
       type: Object,

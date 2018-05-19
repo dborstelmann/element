@@ -46,7 +46,7 @@
       disabled: Boolean,
       popperAppendToBody: {
         type: Boolean,
-        default: undefined
+        default: false
       }
     },
 
