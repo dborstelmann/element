@@ -297,7 +297,7 @@
       collapseTags: Boolean,
       popperAppendToBody: {
         type: Boolean,
-        default: true
+        default: false
       }
     },
 
